@@ -1,6 +1,9 @@
 # Text-to-Image-Generator
 This is a simple web application that allows users to generate images from text prompts using a machine learning model hosted on the Hugging Face API. The app fetches images based on the user's input text and displays the generated image.
 
+**Demo ** 
+https://text2imggen.netlify.app/
+
 **Features**
 Input a text prompt and generate an image using the Hugging Face Text-to-Image model.
 A button to clear both the input and the generated image.
